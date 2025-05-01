@@ -1,0 +1,21 @@
+# Konfigurasi Bot WhatsApp
+
+# Nomor Telepon untuk Pairing (jika belum login)
+# Kosongkan jika sudah login dan ada file whatsmeow.db
+pairing_phone: "6281371849639"
+
+# Informasi Bot
+bot_name: "Camellya"
+
+# Daftar Owner (JID tanpa @s.whatsapp.net)
+owners:
+  - "6285179855248"
+  - "6289561215365"
+  - "6285767373425"
+
+# Prefix untuk command (contoh: "!", ".", "/")
+command_prefix: "!"
+
+# Level Logging (DEBUG, INFO, WARN, ERROR)
+log_level: "INFO"
+
